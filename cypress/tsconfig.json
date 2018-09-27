@@ -4,8 +4,6 @@
     "sourceMap": true,
     "noEmitHelpers": false,
     "moduleResolution": "node",
-    "skipLibCheck": true,
-    "skipDefaultLibCheck": true,
     "typeRoots": [
       "../node_modules/@types"
     ],

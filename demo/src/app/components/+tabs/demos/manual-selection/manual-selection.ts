@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { TabsetComponent } from 'ngx-bootstrap/tabs';
+import { TabsetComponent } from 'ngx-bootstrap';
 
 @Component({
   selector: 'demo-tabs-manual-selection',
