@@ -1,1 +1,0 @@
-{"version":3,"file":"public_api.js","sourceRoot":"","sources":["../../.tmp/rating/public_api.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,oBAAoB,CAAC;AACrD,OAAO,EAAE,YAAY,EAAE,MAAM,iBAAiB,CAAC","sourcesContent":["export { RatingComponent } from './rating.component';\nexport { RatingModule } from './rating.module';\n"]}
