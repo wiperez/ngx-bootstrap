@@ -4,9 +4,6 @@
  */
 import { Renderer2 } from '@angular/core';
 import { Trigger } from './trigger.class';
-// import {
-//   BsEventCallback, ListenOptions
-// } from '../../component-loader/src/listen-options.model';
 
 export type BsEventCallback = (event?: any) => boolean | void;
 
@@ -19,7 +16,6 @@ export interface ListenOptions {
   hide?: BsEventCallback;
   toggle?: BsEventCallback;
 }
-
 
 const DEFAULT_ALIASES = {
   hover: ['mouseover', 'mouseout'],
